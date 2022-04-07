@@ -9,7 +9,8 @@
 ### :mag_right: Interest
 
 - NLP task 
-- get insight with data analysis
+- get insights from data 
+
 
 ### 🛠 Skills
 <p align="left">
