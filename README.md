@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=HajinJo&color=auto&fontSize=40&fontColor=545454)
 
 
 ### :seedling: junior AI engineer
@@ -27,10 +26,6 @@
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
 </p>
 
-### :paw_prints: Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajinjo&show_icons=true&theme=radical)
-<!--
-**hajinjo/hajinjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
