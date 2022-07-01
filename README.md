@@ -29,5 +29,9 @@
 - [CRUD를 적용한 로또번호 추천 Flask API](https://github.com/hajinjo/AIB_project-3) (2021.08)
 - [신용카드 이상거래 탐지 프로젝트](https://github.com/hajinjo/fraud_detection)(2021.07)
 
+**논문 구현&필사**
+- [word2vec](https://github.com/hajinjo/word2vec)
+- [Transformers 필사](https://github.com/hajinjo/transformers)
+
 -------
 update 2022.07
