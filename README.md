@@ -21,7 +21,7 @@
 
 **완료 했거나 진행중인 프로젝트** 
 
-- [인디음악 가사 감성 분석 프로젝트] (2022.06)
+- [인디음악 가사 감성 분석 프로젝트](https://github.com/hajinjo/indiemusic/tree/main) (2022.06)
 - [한국어 문장 유사도 분석 프로젝트](https://bit.ly/3QPJsJE) (2022.03)
 - [StyleGAN을 이용한 가상 얼굴 이미지 생성 프로젝트](https://github.com/hajinjo/face-generator-1) (2021.11)
 - [Tacotron2을 이용한 Text-to-speech 프로젝트](https://github.com/hajinjo/TTS) (2021.10)
