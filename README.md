@@ -1,7 +1,3 @@
-### :seedling: junior AI engineer
-
-- Fast learner & Good at adapting to new challenges
-- A supportive team player
 
 
 ### 🛠 Skills
